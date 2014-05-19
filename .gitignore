@@ -1,0 +1,12 @@
+*.suo
+bin
+obj
+build
+package
+src/packages
+*.DotSettings.user
+*.csproj.user
+*.nupkg
+*.nuspec
+*.dll
+src/SalesService/packages/Nancy.0.21.1/Nancy.0.21.1.nupkg
